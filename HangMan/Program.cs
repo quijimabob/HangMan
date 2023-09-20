@@ -6,7 +6,7 @@ namespace HangMan // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World! I edited this from VS");
         }
     }
 }
