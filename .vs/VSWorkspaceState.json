@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HangMan"
   ],
-  "SelectedNode": "\\HangMan.sln",
+  "SelectedNode": "\\HangMan\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
